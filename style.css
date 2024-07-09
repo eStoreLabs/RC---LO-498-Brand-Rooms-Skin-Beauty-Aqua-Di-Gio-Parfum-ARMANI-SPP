@@ -564,9 +564,12 @@ body {
     font-size: 20px;
   }
   #es-armani.es-armani .es-banner__description {
-    max-width: 86%;
+    max-width: 91%;
     margin: 0 auto;
     font-size: 16px;
+  }
+  #es-armani.es-armani .es-banner__description--last {
+    max-width: 86%;
   }
   #es-armani.es-armani .es-category__item-link {
     font-size: 20px;

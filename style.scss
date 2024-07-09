@@ -636,9 +636,13 @@ body {
       }
 
       &__description {
-        max-width: 86%;
+        max-width: 91%;
         margin: 0 auto;
         font-size: 16px;
+
+        &--last {
+          max-width: 86%;
+        }
       }
     }
 
