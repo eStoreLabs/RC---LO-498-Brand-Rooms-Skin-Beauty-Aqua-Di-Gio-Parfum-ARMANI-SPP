@@ -483,6 +483,9 @@ body {
     flex-wrap: nowrap;
     gap: 30px;
   }
+  #es-armani.es-armani .es-banner--reverse {
+    flex-direction: row-reverse;
+  }
   #es-armani.es-armani .es-banner__content {
     min-width: 45%;
   }

@@ -535,6 +535,10 @@ body {
       flex-wrap: nowrap;
       gap: 30px;
 
+      &--reverse {
+        flex-direction: row-reverse;
+      }
+
       &__content {
         min-width: 45%;
       }
